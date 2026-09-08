@@ -7,7 +7,7 @@
   xsi:type="MailApp">
 
   <Id>7A219926-2651-4B96-A826-96896F3E0564</Id>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.0.1</Version>
   <ProviderName>REPLACE_WITH_YOUR_ORG_NAME</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Availability Picker" />
