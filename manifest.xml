@@ -12,8 +12,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Availability Picker" />
   <Description DefaultValue="Pick open times from your Outlook calendar and drop them into an email as a list, without a voting link." />
-  <IconUrl DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/assets/icon-80.png" />
+  <IconUrl DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/icon-80.png" />
   <SupportUrl DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/support.html" />
 
   <AppDomains>
@@ -84,9 +84,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/assets/icon-16.png" />
-        <bt:Image id="Icon.32x32" DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/assets/icon-32.png" />
-        <bt:Image id="Icon.80x80" DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/assets/icon-80.png" />
+        <bt:Image id="Icon.16x16" DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/icon-16.png" />
+        <bt:Image id="Icon.32x32" DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/icon-32.png" />
+        <bt:Image id="Icon.80x80" DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/icon-80.png" />
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://corngrowers.github.io/Schedule-Availablity-Picker/commands.html" />
